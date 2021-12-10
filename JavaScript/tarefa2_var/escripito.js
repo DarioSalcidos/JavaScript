@@ -15,3 +15,5 @@ var gastoOnte;
 
 var total = gastoHoxe + gastoOnte;
 	alert(total)
+
+	alert("bos "+"dias")
